@@ -1089,7 +1089,7 @@
         justify-content: center;
         flex-wrap: wrap;
         text-align: center;
-        /* Drastically reduce font size to fit long name "Karthigaiselvam" */
+        /* Drastically reduce font size to fit long name "LuisOjeda" */
         font-size: clamp(1.5rem, 6vw, 2.5rem);
         line-height: 1.3;
         word-break: break-word;

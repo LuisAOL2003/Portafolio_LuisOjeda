@@ -51,7 +51,7 @@ function Navbar() {
                     href="#home"
                     className={styles.logo}
                     whileHover={{ scale: 1.02 }}
-                    aria-label="Karthigaiselvam Home"
+                    aria-label="Luis Ojeda Home"
                 >
                     <span className={styles.logoSymbol} aria-hidden="true">&lt;</span>
                     <span className={styles.logoText}>Luis</span>
